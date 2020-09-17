@@ -1,0 +1,3 @@
+# popdog-cards
+
+Image Excluded
